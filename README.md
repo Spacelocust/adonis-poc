@@ -15,7 +15,8 @@ Run these commands in your terminal :
 4. Run `make init` (if command fail try it again)
 5. Go to [http://localhost:3000](http://localhost:3000) in your web browser
 
-PhpMyAdmin is already and accessible on [http://localhost:8080](http://localhost:8080)
+PhpMyAdmin is already installed and accessible on [http://localhost:8080](http://localhost:8080)
+The project already contains some data, you can use it to test your API, check your db named `api-tech` in PhpMyAdmin
 
 In case if you don't have build-essential package installed
 replace make commands by:
